@@ -1,3 +1,3 @@
-## Before and After:
+## Before and after, and only getting started:
 
-![cc grid](./cc.png)   
+![cc grid](./cc.png)
