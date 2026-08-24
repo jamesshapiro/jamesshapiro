@@ -1,1 +1,1 @@
-https://james.fun
+https://james.fun/word
